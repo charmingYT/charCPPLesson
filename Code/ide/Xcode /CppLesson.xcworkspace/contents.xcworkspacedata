@@ -2,6 +2,18 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:L14FriendClass/L14FriendClass.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:L13Reference/L13Reference.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:L12FunctionPoint/L12FunctionPoint.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:L11pseudoFunctions/L11pseudoFunctions.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:L10Operator/L10Operator.xcodeproj">
    </FileRef>
    <FileRef
